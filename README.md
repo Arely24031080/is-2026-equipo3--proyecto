@@ -15,7 +15,7 @@
 - **Carrera:** Ingeniería en Software  
 - **Cuatrimestre:** 7°  
 - **Clase:** Ingeniería de Software  
-- **Institución:** Universidad Tecnológica (ejemplo, ajusta según tu escuela)  
+- **Institución:** Universidad Politécnica de Guanajuato
 
 ---
 
